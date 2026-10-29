@@ -1,10 +1,13 @@
-<<<<<<< HEAD
-﻿Console.WriteLine("hello");
+Console.WriteLine("hello everyone");
+greetWhite();
+greetBlack();
 
 void greetWhite()
 {
     Console.WriteLine("hello white");
 }
-=======
-﻿Console.WriteLine("hello everyone");
->>>>>>> 6c214c5 (Change greeting to hello everyone)
+
+void greetBlack()
+{
+    Console.WriteLine("hello black");
+}
